@@ -21,7 +21,7 @@ b=np.linalg.inv(A)
 print(b)
 ~~~
 
-## Output:![distance](githubb3.png)
+## Output:![github](harsha.png)
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program.
+Thus the inverse of given matrix is successfully solved using python program
 
